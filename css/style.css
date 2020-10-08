@@ -1,0 +1,101 @@
+.form-admin {
+  background-color: #c0dbdd;
+}
+
+.form-login {
+  background-color: #e0d8dc;
+}
+
+.form-admin, .form-login, .row {
+  border: solid 1px;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  -webkit-box-shadow: 2px 5px 30px #9e9d9d;
+          box-shadow: 2px 5px 30px #9e9d9d;
+}
+
+.form-group {
+  margin: 20px;
+}
+
+.form-grouplogin {
+  margin: 20px;
+}
+
+.btn {
+  margin: auto;
+}
+
+.login {
+  margin-top: 10%;
+  text-align: center;
+  font-family: 'Aclonica', sans-serif;
+}
+
+.titre {
+  color: #8ed2d4;
+}
+
+.nom_cat {
+  color: #e05151;
+}
+
+.article_court {
+  color: #020202;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.blog {
+  margin: 20px;
+  padding: 20px;
+}
+
+#index {
+  margin-top: 10%;
+  background-image: url(../image/fond.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.formulaire {
+  font-family: 'Parisienne', cursive;
+  font-size: 25px;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+#h1 {
+  margin-top: 10%;
+}
+
+.imgIndex {
+  size: 30%;
+  float: top;
+  margin: 10px;
+  padding: 10px;
+}
+
+.imgArticle {
+  border: solid 1px;
+  border-radius: 20px;
+}
+
+.active {
+  border-bottom: 2px solid black;
+  border-radius: 3px;
+}
+
+mark {
+  background-color: #ee9a94;
+}
+
+.moderateur {
+  margin-top: 10%;
+}
+/*# sourceMappingURL=style.css.map */
